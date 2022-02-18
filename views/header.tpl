@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
   <title>Taskbook Gamma</title>
+  
   <link rel="icon" type="image/x-icon" href="/static/favicon4.ico">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
